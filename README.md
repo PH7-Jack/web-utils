@@ -6,3 +6,6 @@ Funções para clonar objetos ou array, pegar o último valor de um array
 Web Utilities <br>
 Check if a HEX color is dark or light
 Functions to clone objects or array, get last value from array
+
+(Sem jQuery, js puro)
+(No jQuery, js pure)
